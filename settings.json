@@ -1,0 +1,9 @@
+{
+    "speech_rate": 175,
+    "volume": 100,
+    "weather_api_key": "#yourkey",
+    "news_api_key": "#yourkey",
+    "wake_word_enabled": false,
+    "wake_word": "hey assip",
+    "offline_voice_mode": false
+}

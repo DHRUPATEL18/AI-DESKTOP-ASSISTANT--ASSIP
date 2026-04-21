@@ -1,0 +1,10 @@
+[
+  {
+    "phrase": "open my docs",
+    "action": "open_website:https://docs.python.org"
+  },
+  {
+    "phrase": "hello assip",
+    "action": "say:hello dhrup"
+  }
+]
